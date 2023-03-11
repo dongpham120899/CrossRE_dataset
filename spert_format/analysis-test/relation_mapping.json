@@ -1,0 +1,50 @@
+{
+  "entities": {
+    "OtherScientificTerm": {
+      "short": "OtherScientificTerm",
+      "verbose": "OtherScientificTerm"
+    }
+  },
+  "relations": {
+    "Hyponym-of": {
+      "short": "Hyponym-of",
+      "verbose": "Hyponym-of",
+      "symmetric": false
+    },
+    "Compare": {
+      "short": "Compare",
+      "verbose": "Compare",
+      "symmetric": false
+    },
+    "Part-of": {
+      "short": "Part-of",
+      "verbose": "Part-of",
+      "symmetric": false
+    },
+    "Use-for": {
+      "short": "Use-for",
+      "verbose": "Use-for",
+      "symmetric": false
+    },
+    "feature-of": {
+      "short": "feature-of",
+      "verbose": "feature-of",
+      "symmetric": false
+    },
+    "Evaluate-for": {
+      "short": "Evaluate-for",
+      "verbose": "Evaluate-for",
+      "symmetric": false
+    },
+    "Conjunction": {
+      "short": "Conjunction",
+      "verbose": "Conjunction",
+      "symmetric": false
+    },
+    "Topic": {
+      "short": "Topic",
+      "verbose": "Topic",
+      "symmetric": false
+    }
+  }
+}
